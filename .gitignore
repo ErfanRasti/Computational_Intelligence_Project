@@ -10,6 +10,8 @@ MSCELEBFaceRecognition/pngs
 
 FlowerTypeDetection/data
 
+# Files
+MSCELEBFaceRecognition/test.ipynb
 
 # C extensions
 *.so
